@@ -9,4 +9,4 @@ An interactive Power BI dashboard designed to analyze business metrics, track pe
 * **Churn Rate & Client Retention**
 
 ## 🎥 Video Presentation
-* **Presentation Video:** [Watch the Power BI Dashboard Walkthrough](./Power%20BI%20presentation.mp4)
+* **Presentation Video:** [Watch the Power BI Dashboard Walkthrough](./Power%20BI%20presentation%201.mp4)
