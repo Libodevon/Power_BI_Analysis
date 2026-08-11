@@ -1,4 +1,6 @@
 # Power BI Data Analysis Showcase
+![Power BI Dashboard Preview](./screenshot.png)
+
 
 ## 📊 Overview
 An interactive Power BI dashboard designed to analyze business metrics, track performance, and drive data-driven decision-making.
