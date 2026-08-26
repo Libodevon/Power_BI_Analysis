@@ -38,7 +38,7 @@ CALCULATE(
     COUNT(Sales[Customer_ID]), 
     Sales[Customer_Type] = "Returning"
 )
-'''
+```
 ## 💡 Key Business Insights
 * **Regional Dominance:** The **North region** leads total sales, accounting for over **31%** of overall business revenue.
 * **Strong Profitability:** The organization maintains a healthy net profit margin of **22.77%**, yielding **$4K in net profit** from **$17K in total revenue**.
